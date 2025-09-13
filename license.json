@@ -1,5 +1,12 @@
 {
-  "biasa": [],
-  "premium": [],
-  "banned": []
+  "biasa": [
+    "bababbaba",
+    "hhhhhhhhh"
+  ],
+  "premium": [
+    "haloprem"
+  ],
+  "banned": [
+    "haloprem"
+  ]
 }
