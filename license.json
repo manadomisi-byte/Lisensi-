@@ -5,8 +5,8 @@
     "ooooooo",
     "lllllllll"
   ],
-  "premium": [],
-  "banned": [
+  "premium": [
     "aseprem"
-  ]
+  ],
+  "banned": []
 }
