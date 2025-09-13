@@ -1,9 +1,9 @@
 {
-  "biasa": [
-    "halobiasa"
-  ],
+  "biasa": [],
   "premium": [
     "haloprem"
   ],
-  "banned": []
+  "banned": [
+    "haloprem"
+  ]
 }
