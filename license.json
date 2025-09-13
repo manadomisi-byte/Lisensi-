@@ -6,7 +6,9 @@
     "lllllllll"
   ],
   "premium": [
-    "aseprem"
+    "premium"
   ],
-  "banned": []
+  "banned": [
+    "aseprem"
+  ]
 }
