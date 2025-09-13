@@ -1,13 +1,5 @@
 {
-  "biasa": [
-    "bababbaba",
-    "hhhhhhhhh",
-    "hahahahaha"
-  ],
-  "premium": [
-    "haloprem"
-  ],
-  "banned": [
-    "haloprem"
-  ]
+  "biasa": [],
+  "premium": [],
+  "banned": []
 }
