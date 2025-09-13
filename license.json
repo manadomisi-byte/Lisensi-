@@ -1,9 +1,7 @@
 {
-  "biasa": [],
-  "premium": [
-    "asepprem"
+  "biasa": [
+    "halobrow"
   ],
-  "banned": [
-    "asepprem"
-  ]
+  "premium": [],
+  "banned": []
 }
