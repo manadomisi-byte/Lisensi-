@@ -5,11 +5,10 @@
     "ksksksksks",
     "kskskskks"
   ],
-  "premium": [
-    "00000"
-  ],
+  "premium": [],
   "banned": [
     "000000",
-    "88222"
+    "88222",
+    "00000"
   ]
 }
