@@ -1,13 +1,14 @@
 {
   "biasa": [
-    "jjjjjjjj",
     "ssssssss",
     "ooooooo",
     "lllllllll"
   ],
   "premium": [
-    "premium",
-    "aseprem"
+    "premium"
   ],
-  "banned": []
+  "banned": [
+    "jjjjjjjj",
+    "aseprem"
+  ]
 }
